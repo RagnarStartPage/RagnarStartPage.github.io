@@ -6,7 +6,8 @@ var clientid = "be212a58528168962a39c64052c1d88e";
 var redirecturi = "http://localhost:8002/callback.html";
 var locations = [
   "12769193",
-  "2383599"
+  "2383599",
+  "55969984"
 ];
 var images = [
   "1412446496031.jpg",
@@ -88,8 +89,8 @@ var favorites = [
       ["Daily Challenge", "https://www.reddit.com/r/dailyprogrammer/", "dc"],
       ["Automate Boring Stuff", "https://automatetheboringstuff.com", "abs"],
       ["alt Music", "http://musicforprogramming.net/?zero", "am"],
-      ["Operating Systems", " https://users.cs.duke.edu/~chase/cps310/", "310"],
-      ["Mobile Design", "http://www.cs.duke.edu/courses/spring17/compsci290.3/", "290"],
+      ["Algorithms", " http://www.cs.duke.edu/courses/fall17/compsci330/", "330"],
+      ["AI", "http://www.cs.duke.edu/courses/fall17/compsci570//", "570"],
       ["TA Course", "http://www.cs.duke.edu/courses/spring17/compsci249/", "ta"],
       ["Recorded Lectures", "http://trinity.capture.duke.edu/Panopto/Pages/Sessions/List.aspx?#folderID=\"d4654152-bc9d-4c03-9f46-43642c9cc221\"", "vr"],
       
