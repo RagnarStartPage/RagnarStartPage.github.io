@@ -52,7 +52,8 @@ var favorites = [
       ["whatsapp" , "https://web.whatsapp.com/", "wa"],
       ["hangouts" , "http://hangouts.google.com", "hang"],
       ["facebook" , "https://www.facebook.com/" , "fb"],
-      ["messenger", "https://www.messenger.com", "ms"]
+      ["messenger", "https://www.messenger.com", "ms"],
+      ["Pushbullet", "https://www.pushbullet.com/#sms", "pb"]
     ]
   ],
   [ "Useful Rando stuff",
