@@ -78,9 +78,9 @@ var favorites = [
   [ "Path of Exile",
     [
       ["Ninja", "poe.ninja/", "nin"],
-      ["Poe Trade", "poe.trade", "ptr" ],
+      ["Poe Trade", "poe.trade", "ptr"],
       ["Poe currency", "http://currency.poe.trade/", "cur"],
-      ["League Trade, 'www.pathofexile.com/trade/", "ltr"]
+      ["League Trade", "www.pathofexile.com/trade/", "ltr"]
     ]
   ],
   [ "Reddit",
