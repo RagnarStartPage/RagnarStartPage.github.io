@@ -51,9 +51,9 @@ var favorites = [
     [
       ["whatsapp" , "https://web.whatsapp.com/", "wa"],
       ["hangouts" , "http://hangouts.google.com", "hang"],
-      ["facebook" , "https://www.facebook.com/" , "fb"],
       ["messenger", "https://www.messenger.com", "ms"],
-      ["Pushbullet", "https://www.pushbullet.com/#sms", "pb"]
+      ["Pushbullet", "https://www.pushbullet.com/#sms", "pb"],
+      ["Group me", "https://web.groupme.com/chats", "gme"]
     ]
   ],
   [ "Useful Rando stuff",
@@ -61,18 +61,26 @@ var favorites = [
      ["Work Music", "https://www.brain.fm/app#!/player/35","bfm"],
      ["Wolfram", "http://www.wolframalpha.com/", "wf"],
      ["oeis", "https://oeis.org/", "oeis"],
-     ["Tibetan Dic", "http://www.eng-tib.com/", "td"],
-     ["Amazon", "https://www.amazon.com/", "ama"]
+     ["Amazon", "https://www.amazon.com/", "ama"],
+     ["Automate Boring Stuff", "https://automatetheboringstuff.com", "abs"],
      
      ]
   ],
   
-  [ "Mind Exploding",
+  // [ "Mind Exploding",
+  //   [
+  //     ["RibbonFarm", "http://www.ribbonfarm.com/", "rf"],
+  //     ["Reservations", "http://unqualified-reservations.blogspot.co.uk/", "rsa"],
+  //     ["Meaningness", "https://meaningness.com/", "mn"],
+  //     ["Nuatil", "http://nautil.us/", "nau"]
+  //   ]
+  // ],
+  [ "Path of Exile",
     [
-      ["RibbonFarm", "http://www.ribbonfarm.com/", "rf"],
-      ["Reservations", "http://unqualified-reservations.blogspot.co.uk/", "rsa"],
-      ["Meaningness", "https://meaningness.com/", "mn"],
-      ["Nuatil", "http://nautil.us/", "nau"]
+      ["Ninja", "poe.ninja/", "nin"],
+      ["Poe Trade", "poe.trade", "ptr" ],
+      ["Poe currency", "http://currency.poe.trade/", "cur"],
+      ["League Trade, 'www.pathofexile.com/trade/", "ltr"]
     ]
   ],
   [ "Reddit",
@@ -80,7 +88,7 @@ var favorites = [
       ["Reddit", "https://www.reddit.com/", "rd"],
       ["HackerNews", "https://news.ycombinator.com/", "hn"],
       ["r/All", "https://www.reddit.com/r/all", "ral"],
-      ["Overwatch", "https://www.reddit.com/r/Overwatch/", "row"],
+      ["Path of Exile", "https://www.reddit.com/r/pathofexile/", "poe"],
       ["Programmer Humor", "https://www.reddit.com/r/ProgrammerHumor/", "rph"]
     ]
   ],
@@ -88,12 +96,10 @@ var favorites = [
     [
       ["HackerRank", "https://www.hackerrank.com/", "hr"],
       ["Daily Challenge", "https://www.reddit.com/r/dailyprogrammer/", "dc"],
-      ["Automate Boring Stuff", "https://automatetheboringstuff.com", "abs"],
+      
       ["alt Music", "http://musicforprogramming.net/?zero", "am"],
-      ["Algorithms", " http://www.cs.duke.edu/courses/fall17/compsci330/", "330"],
-      ["AI", "http://www.cs.duke.edu/courses/fall17/compsci570//", "570"],
-      ["TA Course", "http://www.cs.duke.edu/courses/spring17/compsci249/", "ta"],
-      ["Recorded Lectures", "http://trinity.capture.duke.edu/Panopto/Pages/Sessions/List.aspx?#folderID=\"d4654152-bc9d-4c03-9f46-43642c9cc221\"", "vr"],
+      ["Systems", "http://people.duke.edu/~tkb13/courses/ece458/", "sys"],
+      ["Sakia", "https://sakai.duke.edu/", "sa"]
       
     ]
   ]
