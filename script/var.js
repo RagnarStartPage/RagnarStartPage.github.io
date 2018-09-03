@@ -60,8 +60,8 @@ var favorites = [
     [
      ["Work Music", "https://www.brain.fm/app#!/player/35","bfm"],
      ["Wolfram", "http://www.wolframalpha.com/", "wf"],
-     ["oeis", "https://oeis.org/", "oeis"],
-     ["Amazon", "https://www.amazon.com/", "ama"],
+     ["oeis", "https://oeis.org/", "oeis"], 
+     ["alt Music", "http://musicforprogramming.net/?zero", "am"],
      ["Automate Boring Stuff", "https://automatetheboringstuff.com", "abs"],
      
      ]
@@ -80,7 +80,10 @@ var favorites = [
       ["Ninja", "https://poe.ninja/", "nin"],
       ["Poe Trade", "https://poe.trade", "ptr"],
       ["Poe currency", "http://currency.poe.trade/", "cur"],
-      ["League Trade", "https://www.pathofexile.com/trade/", "ltr"]
+      ["League Trade", "https://www.pathofexile.com/trade/", "ltr"],
+      ["Poe Affix", "http://poeaffix.net", "paf"],
+      ["Poe App", "https://poeapp.com/", "pap"]
+
     ]
   ],
   [ "Reddit",
@@ -98,8 +101,12 @@ var favorites = [
       ["Daily Challenge", "https://www.reddit.com/r/dailyprogrammer/", "dc"],
       
       ["alt Music", "http://musicforprogramming.net/?zero", "am"],
-      ["Systems", "http://people.duke.edu/~tkb13/courses/ece458/", "sys"],
-      ["Sakia", "https://sakai.duke.edu/", "sa"]
+      ["Sakai", "https://sakai.duke.edu/", "sa"],
+      ["cs260", "https://www2.cs.duke.edu/courses/fall18/compsci260/", '260'],
+      ["cs371", "http://db.cs.duke.edu/courses/fall18/compsci371d/", "371"],
+      ["cs316", "https://sites.duke.edu/compsci316_01_f2018/", "316"]
+
+
       
     ]
   ]
