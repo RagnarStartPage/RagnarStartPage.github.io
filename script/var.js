@@ -102,9 +102,8 @@ var favorites = [
       
       ["alt Music", "http://musicforprogramming.net/?zero", "am"],
       ["Sakai", "https://sakai.duke.edu/", "sa"],
-      ["cs260", "https://www2.cs.duke.edu/courses/fall18/compsci260/", '260'],
-      ["cs371", "http://db.cs.duke.edu/courses/fall18/compsci371d/", "371"],
-      ["cs316", "https://sites.duke.edu/compsci316_01_f2018/", "316"]
+      ["330", "https://github.com/RagnarStartPage/RagnarStartPage.github.io.git", "330"],
+      ["342", "https://docs.google.com/document/d/13urAtouugbw0o7zRhoHGX7kY-nO1pCqkWjTNK7W_P2Q/edit", "342"]
 
 
       
