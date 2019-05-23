@@ -42,8 +42,6 @@ var favorites = [
     [
       ["github" , "https://github.com/", "gh"],
       ["gmail" , "https://mail.google.com/mail/u/0/#inbox", "gm"],
-      ["outlook", "https://outlook.office.com/owa/?realm=duke.edu" , "ol"],
-      ["Work Pay" , "https://work.duke.edu/irj/portal/MyPay", "wp"],
       ["Duke Homepage", "https://my.duke.edu/students/", "hp"]
     ]
   ],
@@ -52,7 +50,6 @@ var favorites = [
       ["whatsapp" , "https://web.whatsapp.com/", "wa"],
       ["hangouts" , "http://hangouts.google.com", "hang"],
       ["messenger", "https://www.messenger.com", "ms"],
-      ["Pushbullet", "https://www.pushbullet.com/#sms", "pb"],
       ["Group me", "https://web.groupme.com/chats", "gme"]
     ]
   ],
@@ -100,13 +97,7 @@ var favorites = [
       ["HackerRank", "https://www.hackerrank.com/", "hr"],
       ["Daily Challenge", "https://www.reddit.com/r/dailyprogrammer/", "dc"],
       
-      ["alt Music", "http://musicforprogramming.net/?zero", "am"],
-      ["Sakai", "https://sakai.duke.edu/", "sa"],
-      ["330", "https://github.com/RagnarStartPage/RagnarStartPage.github.io.git", "330"],
-      ["342", "https://docs.google.com/document/d/13urAtouugbw0o7zRhoHGX7kY-nO1pCqkWjTNK7W_P2Q/edit", "342"]
-
-
-      
+      ["alt Music", "http://musicforprogramming.net/?zero", "am"],      
     ]
   ]
 ];
