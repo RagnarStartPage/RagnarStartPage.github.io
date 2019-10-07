@@ -12,11 +12,11 @@ var locations = [
 var images = [
   "1412446496031.jpg",
   "1417804954510.jpg",
-  "1422771896804.jpg",
+  // "1422771896804.jpg",
   "1424655132831.jpg",
-  "1425939966695.jpg",
+  // "1425939966695.jpg",
   "1429482830109.jpg",
-  "1429569823779.jpg",
+  // "1429569823779.jpg",
   "1437167260211.jpg",
   "1437214448937.jpg",
   "1437214448937.jpg",
@@ -40,9 +40,10 @@ var searchs = [
 var favorites = [
   [ "Work",
     [
-      ["github" , "https://github.com/", "gh"],
       ["gmail" , "https://mail.google.com/mail/u/0/#inbox", "gm"],
-      ["Duke Homepage", "https://my.duke.edu/students/", "hp"]
+      ["outlook", "https://outlook.office365.com/mail/", "om"],
+      ["dashboard", "https://aka.ms/msaasDashboard", "db"],
+      ["sprint", "https://dev.azure.com/microsoft/OSGS/_sprints/taskboard/ft_Membership_CMC_JNairFTE/OSGS/", "sp"], 
     ]
   ],
   [ "Social",
@@ -50,7 +51,9 @@ var favorites = [
       ["whatsapp" , "https://web.whatsapp.com/", "wa"],
       ["hangouts" , "http://hangouts.google.com", "hang"],
       ["messenger", "https://www.messenger.com", "ms"],
-      ["Group me", "https://web.groupme.com/chats", "gme"]
+      ["github" , "https://github.com/", "gh"],
+      ["blind", "https://www.teamblind.com/articles/Microsoft", "bl"],
+      ['teams', "https://teams.microsoft.com/_", "tm"],
     ]
   ],
   [ "Useful Rando stuff",
@@ -60,10 +63,9 @@ var favorites = [
      ["oeis", "https://oeis.org/", "oeis"], 
      ["alt Music", "http://musicforprogramming.net/?zero", "am"],
      ["Automate Boring Stuff", "https://automatetheboringstuff.com", "abs"],
-     
      ]
   ],
-  
+
   // [ "Mind Exploding",
   //   [
   //     ["RibbonFarm", "http://www.ribbonfarm.com/", "rf"],
@@ -89,15 +91,17 @@ var favorites = [
       ["HackerNews", "https://news.ycombinator.com/", "hn"],
       ["r/All", "https://www.reddit.com/r/all", "ral"],
       ["Path of Exile", "https://www.reddit.com/r/pathofexile/", "poe"],
-      ["Programmer Humor", "https://www.reddit.com/r/ProgrammerHumor/", "rph"]
+      ["Programmer Humor", "https://www.reddit.com/r/ProgrammerHumor/", "rph"],
+      ["CSGO", "https://reddit.com/r/globaloffensive/", "csgo"],
+      ["Classic", "https://reddit.com/r/classicwow/", "wow"]
     ]
   ],
   [ "Other/Course Websites",
     [
       ["HackerRank", "https://www.hackerrank.com/", "hr"],
       ["Daily Challenge", "https://www.reddit.com/r/dailyprogrammer/", "dc"],
-      
       ["alt Music", "http://musicforprogramming.net/?zero", "am"],      
+      ["Duke Homepage", "https://my.duke.edu/students/", "hp"]
     ]
   ]
 ];
